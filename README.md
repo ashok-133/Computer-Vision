@@ -9,3 +9,6 @@ At first the image is converted to HSV. Then a mask is created to extract the re
 ![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/Edge%20Detection/edge1.jpg)
 # 3.Face and Eyes Detection
 ![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/Face%20and%20Eyes%20Detection/Screenshot%202020-07-26%20at%208.50.01%20AM.png)
+# 4.PhotoSketching
+![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/PhotoSketching/photo.jpg)
+![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/PhotoSketching/photo1.jpg)
