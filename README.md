@@ -5,5 +5,5 @@ At first the image is converted to HSV. Then a mask is created to extract the re
 ![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/ColorDetection/car.jpg)
 ![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/ColorDetection/carres.jpg)
 # 2.Edge Detection
-![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/Edge Detection/edge.jpg)
-![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/Edge Detection/edge1.jpg)
+![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/Edge%20Detection/edge.jpg)
+![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/Edge%20Detection/edge1.jpg)
