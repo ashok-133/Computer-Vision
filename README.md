@@ -13,4 +13,4 @@ At first the image is converted to HSV. Then a mask is created to extract the re
 ![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/PhotoSketching/photo.jpg)
 ![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/PhotoSketching/photo1.jpg)
 # 5.Facial Landmark Detection
-![alt text]()
+![alt text](https://github.com/ashok-133/Computer-Vision/blob/master/Facial%20Landmark%20Detection/faceland.jpg)
